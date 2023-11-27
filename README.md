@@ -6,7 +6,7 @@ AtliQ Hardware is a electronics manufacturer company which has the data for last
 
 ## Dashboard
 
- - Power BI [Dashboard]((https://app.powerbi.com/view?r=eyJrIjoiYzZmZDFjZGYtZTc0ZS00MDY1LTk1NjEtY2Q0YjI4MWY3OWU4IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9))
+ - Power BI [Dashboard]((https://app.powerbi.com/viewr=eyJrIjoiYzZmZDFjZGYtZTc0ZS00MDY1LTk1NjEtY2Q0YjI4MWY3OWU4IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9))
  - Business Insights [Excel file](https://github.com/Manojcodedata/Power-BI-Project/blob/main/Business%20Insights%20Power%20Bi%20(1).xlsx)
  - Dashboard [Presentation video](https://www.linkedin.com/in/sai-manoj-pacha-879b77220/)
 
